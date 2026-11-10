@@ -1,0 +1,13 @@
+Track,Genre,Streams,Actual pop,Linear pred,Actual hit,Logistic P(hit),Tree P(hit),Forest P(hit)
+Few must,Metal,3000,49,45.9,0,0.08,0.09,0.07
+Development agent national,EDM,23000,51,57.5,0,0.41,0.44,0.36
+Story watch wall,Country,1000,33,39.6,0,0.03,0.02,0.03
+Fish,Classical,1000,31,39.6,0,0.03,0.02,0.02
+See form into ball,Classical,1000,37,39.6,0,0.03,0.02,0.04
+Exist finish nation new free,Indie,1000,29,39.9,0,0.03,0.02,0.04
+Street couple economy,Jazz,1000,46,39.9,0,0.03,0.02,0.02
+Certainly big including,Indie,1000,31,39.6,0,0.03,0.02,0.01
+Teacher traditional none southern,Folk,36000,61,60.1,1,0.54,0.53,0.57
+Arrive,Pop,2000,43,43.5,0,0.06,0.05,0.02
+Push,Indie,383000,60,74.0,1,0.94,0.89,0.93
+Power general rate,Indie,6000,56,49.8,0,0.15,0.15,0.2
